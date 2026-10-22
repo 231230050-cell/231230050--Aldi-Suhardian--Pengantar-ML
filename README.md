@@ -1,5 +1,5 @@
 # 231230050--Aldi-Suhardian--Pengantar-ML
-# [NIM] - Pengantar Machine Learning
+# [231230050] - Pengantar Machine Learning
 
 **Nama:** [Aldi Suhradian]
 **NIM:** [231230050]
